@@ -18,3 +18,5 @@ downloads/
 eggs/
 Lib/
 Scripts/
+
+venv/
